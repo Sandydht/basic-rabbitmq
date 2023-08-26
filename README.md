@@ -1,1 +1,1 @@
-# bassic-rabbitmq
+# Basic Rabbitmq
